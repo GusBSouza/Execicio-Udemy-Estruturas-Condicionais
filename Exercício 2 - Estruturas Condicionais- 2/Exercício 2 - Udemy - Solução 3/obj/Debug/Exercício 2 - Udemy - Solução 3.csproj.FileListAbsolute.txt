@@ -1,0 +1,8 @@
+D:\Visual-Studio\Exercício 2 - Udemy - Solução 3\Exercício 2 - Udemy - Solução 3\bin\Debug\Exercício 2 - Udemy - Solução 3.exe.config
+D:\Visual-Studio\Exercício 2 - Udemy - Solução 3\Exercício 2 - Udemy - Solução 3\bin\Debug\Exercício 2 - Udemy - Solução 3.exe
+D:\Visual-Studio\Exercício 2 - Udemy - Solução 3\Exercício 2 - Udemy - Solução 3\bin\Debug\Exercício 2 - Udemy - Solução 3.pdb
+D:\Visual-Studio\Exercício 2 - Udemy - Solução 3\Exercício 2 - Udemy - Solução 3\obj\Debug\Exercício 2 - Udemy - Solução 3.csproj.AssemblyReference.cache
+D:\Visual-Studio\Exercício 2 - Udemy - Solução 3\Exercício 2 - Udemy - Solução 3\obj\Debug\Exercício 2 - Udemy - Solução 3.csproj.CoreCompileInputs.cache
+D:\Visual-Studio\Exercício 2 - Udemy - Solução 3\Exercício 2 - Udemy - Solução 3\obj\Debug\Exercício 2 - Udemy - Solução 3.exe
+D:\Visual-Studio\Exercício 2 - Udemy - Solução 3\Exercício 2 - Udemy - Solução 3\obj\Debug\Exercício 2 - Udemy - Solução 3.pdb
+D:\Visual-Studio\Exercício 2 - Udemy - Solução 3\Exercício 2 - Udemy - Solução 3\obj\Debug\Exercício 2 - Udemy - Solução 3.exe.config
