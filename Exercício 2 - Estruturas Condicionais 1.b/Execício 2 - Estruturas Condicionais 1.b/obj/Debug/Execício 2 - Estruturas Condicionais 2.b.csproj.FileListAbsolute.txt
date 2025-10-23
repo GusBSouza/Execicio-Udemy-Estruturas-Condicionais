@@ -1,0 +1,7 @@
+D:\Visual-Studio\Execício 2 - Estruturas Condicionais 2.b\Execício 2 - Estruturas Condicionais 2.b\bin\Debug\Execício 2 - Estruturas Condicionais 2.b.exe.config
+D:\Visual-Studio\Execício 2 - Estruturas Condicionais 2.b\Execício 2 - Estruturas Condicionais 2.b\bin\Debug\Execício 2 - Estruturas Condicionais 2.b.exe
+D:\Visual-Studio\Execício 2 - Estruturas Condicionais 2.b\Execício 2 - Estruturas Condicionais 2.b\bin\Debug\Execício 2 - Estruturas Condicionais 2.b.pdb
+D:\Visual-Studio\Execício 2 - Estruturas Condicionais 2.b\Execício 2 - Estruturas Condicionais 2.b\obj\Debug\Execício 2 - Estruturas Condicionais 2.b.csproj.AssemblyReference.cache
+D:\Visual-Studio\Execício 2 - Estruturas Condicionais 2.b\Execício 2 - Estruturas Condicionais 2.b\obj\Debug\Execício 2 - Estruturas Condicionais 2.b.csproj.CoreCompileInputs.cache
+D:\Visual-Studio\Execício 2 - Estruturas Condicionais 2.b\Execício 2 - Estruturas Condicionais 2.b\obj\Debug\Execício 2 - Estruturas Condicionais 2.b.exe
+D:\Visual-Studio\Execício 2 - Estruturas Condicionais 2.b\Execício 2 - Estruturas Condicionais 2.b\obj\Debug\Execício 2 - Estruturas Condicionais 2.b.pdb
